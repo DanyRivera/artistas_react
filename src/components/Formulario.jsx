@@ -29,7 +29,7 @@ const Formulario = ({setBusquedaArtista}) => {
 
             <div className="container">
 
-                <div className="row w-75 mx-auto">
+                <div className="row formulario mx-auto">
 
                     <form 
                         onSubmit={buscarInformacion}

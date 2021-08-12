@@ -85,3 +85,8 @@ h2 {
   color: #d51007;
 }
 
+@media screen and (min-width: 1200px) {
+  .formulario {
+    width: 75%;
+  }
+}
